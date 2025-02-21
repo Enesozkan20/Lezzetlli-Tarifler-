@@ -13,7 +13,9 @@ This project is a design for a recipe website called Delicious Recipes. It featu
 🛠️ Technologies Used
 
 HTML: For building the page structure
+
 CSS: For basic styling and design
+
 SCSS: For flexible and dynamic style management
 
 💡 Project Capabilities
