@@ -4,10 +4,13 @@ This project is a design for a recipe website called Delicious Recipes. It featu
 🚀 Features
 
 👨‍🍳 Recipe Cards: Displays recipes with images and short descriptions.
+
 🔍 Search Functionality: Enables quick search through available recipes.
+
 📱 Responsive Design: Perfectly adapts to mobile, tablet, and desktop devices.
 
 🎨 Modular Styles with SCSS: Easy and maintainable style management.
+
 🎭 Hover & Animations: Enhances user interaction with smooth transitions.
 
 🛠️ Technologies Used
@@ -21,8 +24,11 @@ SCSS: For flexible and dynamic style management
 💡 Project Capabilities
 
 Users can explore recipes in different categories.
+
 View detailed recipes, including ingredients and preparation steps.
+
 Fully responsive design ensures a seamless experience on all devices.
+
 Clean and maintainable code structure, allowing for easy future development.
 
 
